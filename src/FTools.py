@@ -1,2 +1,2 @@
-def sprint():
+def Fprint():
     print("Hei, det er meg")
