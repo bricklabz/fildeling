@@ -1,8 +1,9 @@
 import mytools
+import stools
 
 print("Here we go!")
 
 mytools.printHW()
 mytools.printGB()
 
-print(mytools.a * mytools.b)
+stools.sprint()
