@@ -1,2 +1,2 @@
 def cprint():
-    print ("Christos er med")
+    print ("christos er ikke med >:(")
